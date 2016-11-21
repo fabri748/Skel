@@ -1,2 +1,2 @@
-# Skel
-Scheletro base per applicazioni angularJS
+# ngskel
+AngularJs skeleton
